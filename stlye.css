@@ -1,12 +1,16 @@
-body{  
+body{}
 
-}
-.titulo{padding:  16px;}
-
+.titulo{padding: 16px;}
 .imagem{width: 100%;}
 
-.principal {background-color: gray;
-   text-align: center;  
+.pricipal{background-color: gray;
+text-align: center;}
 
-}
-    
+.destaque{color: red;}
+
+.beneficios{text-align: center;}
+
+.imagem-beneficios{width: 50%;}
+
+.lista{display: inline-block;
+vertical-align: top;}
